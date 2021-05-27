@@ -1,29 +1,29 @@
-并发方面的资料
+Concurrency information
 ==========================
 
 Java
 -------------------
 
-`Java`开发的经典体系的资料：
+Information about the classic system developed by `Java`:
 
-- 基础/原理
-    - [JAVA并发编程实践](http://book.douban.com/subject/2148132/)     
-        经典！推荐先看这本，更实用，并且有`Java 5`的内容。实战与理论并重。第16届Jolt大奖提名图书。
-    - [Java并发编程](http://book.douban.com/subject/1244021/)  
-        名家Doug Lea的著作，内容虽然老，但原理是不变的。
-- 更多更高级的并发抽象工具的广度/科普说明
-    - [七周七并发模型](https://book.douban.com/subject/26337939/)  
-        科普式了解 & 广度感受。
-- 更高级的并发抽象更深入些的说明
-    - [Scala并发编程](https://book.douban.com/subject/26642326/)
-    - [响应式架构 - 消息模式Actor实现与Scala、Akka应用](https://book.douban.com/subject/26829063/)  
-        `Actor`并发模型在业务上的设计/建模
+-Basics/Principles
+    -[JAVA Concurrent Programming Practice](http://book.douban.com/subject/2148132/)
+        classic! It is recommended to read this book first, which is more practical and contains content of `Java 5`. Both actual combat and theory are emphasized. Books nominated for the 16th Jolt Awards.
+    -[Java Concurrent Programming](http://book.douban.com/subject/1244021/)
+        The work of the famous Doug Lea, although the content is old, but the principle remains the same.
+-More advanced concurrency abstraction tools breadth/scientific explanation
+    -[Seven weeks and seven concurrency model](https://book.douban.com/subject/26337939/)
+        Popular science-style understanding & breadth of experience.
+-More advanced concurrency abstractions and more in-depth explanations
+    -[Scala Concurrent Programming](https://book.douban.com/subject/26642326/)
+    -[Responsive Architecture-Message Mode Actor Implementation and Scala and Akka Applications](https://book.douban.com/subject/26829063/)
+        Business design/modeling of `Actor` concurrency model
 
-更多参见个人整理并发书籍豆列： [Concurrency/Parallelism](http://www.douban.com/doulist/41916951/)
+For more information, please refer to the column of personal collation and concurrent books: [Concurrency/Parallelism](http://www.douban.com/doulist/41916951/)
 
-网站资料
+Site Information
 --------------------
 
-- [并发编程网](http://ifeve.com/)
-- [Parallel Labs](http://www.parallellabs.com/)
-- [IBM Developer Works - Java 多线程与并发编程专题](http://www.ibm.com/developerworks/cn/java/j-concurrent/)
+-[Concurrent Programming Network](http://ifeve.com/)
+-[Parallel Labs](http://www.parallellabs.com/)
+-[IBM Developer Works-Java Multithreading and Concurrent Programming Topics](http://www.ibm.com/developerworks/cn/java/j-concurrent/)
